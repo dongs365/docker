@@ -4,3 +4,4 @@ RUN apt update && apt upgrade -y
 WORKDIR /tmp
 EXPOSE 80
 CMD ["echo 'HA! HA! HA!'"]
+CMD ["curl ip.cn"]
