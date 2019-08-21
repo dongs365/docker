@@ -1,7 +1,2 @@
-FROM ubuntu
-MAINTAINER dongs365
-RUN apt update && apt upgrade -y
-WORKDIR /tmp
-EXPOSE 80
-CMD ["echo 'HA! HA! HA!'"]
-CMD ["curl ip.cn"]
+FROM k8s.gcr.io/etcd:3.3.10
+MAINTAINER dongs365 Wed Aug 21 08:30:26 UTC 2019
