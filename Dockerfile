@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/etcd:3.3.10
-MAINTAINER dongs365 Thu Aug 22 04:45:01 UTC 2019
+FROM k8s.gcr.io/kube-scheduler:v1.15.3
+MAINTAINER dongs365 Thu Aug 22 04:50:02 UTC 2019
