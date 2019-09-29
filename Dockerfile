@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-proxy:v1.15.4
-MAINTAINER dongs365 Sun Sep 29 14:05:01 UTC 2019
+FROM k8s.gcr.io/etcd:3.3.10
+MAINTAINER dongs365 Sun Sep 29 14:10:01 UTC 2019
