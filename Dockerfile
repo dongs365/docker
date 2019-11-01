@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/pause:3.1
-MAINTAINER dongs365 Fri Nov  1 01:55:01 UTC 2019
+FROM k8s.gcr.io/kube-controller-manager:v1.16.2
+MAINTAINER dongs365 Fri Nov  1 02:00:01 UTC 2019
