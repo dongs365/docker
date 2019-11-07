@@ -1,2 +1,2 @@
 FROM k8s.gcr.io/kube-proxy:v1.16.2
-MAINTAINER dongs365 Thu Nov  7 23:25:01 UTC 2019
+MAINTAINER dongs365 Thu Nov  7 23:30:01 UTC 2019
