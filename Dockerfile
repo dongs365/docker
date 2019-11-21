@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/etcd:3.3.15-0
-MAINTAINER dongs365 Thu Nov 21 10:15:01 UTC 2019
+FROM k8s.gcr.io/coredns:1.6.2
+MAINTAINER dongs365 Thu Nov 21 10:20:01 UTC 2019
