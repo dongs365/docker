@@ -1,4 +1,5 @@
 #!/bin/bash
+cd /data/docker
 images=`kubeadm config images list`
 num=$[RANDOM%7+1]
 i=`echo ${images}|cut -d" " -f${num}`
