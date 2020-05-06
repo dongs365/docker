@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-scheduler:v1.18.2
-MAINTAINER dongs365 Wed May  6 11:30:02 UTC 2020
+FROM k8s.gcr.io/kube-proxy:v1.18.2
+MAINTAINER dongs365 Wed May  6 11:35:02 UTC 2020
