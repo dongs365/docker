@@ -1,2 +1,2 @@
 FROM k8s.gcr.io/kube-apiserver:v1.18.5
-MAINTAINER dongs365 Fri Jul 10 21:15:01 CST 2020
+MAINTAINER dongs365 Fri Jul 10 21:20:01 CST 2020
