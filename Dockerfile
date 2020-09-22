@@ -1,2 +1,2 @@
 FROM k8s.gcr.io/kube-scheduler:v1.18.9
-MAINTAINER dongs365 Tue Sep 22 12:25:02 CST 2020
+MAINTAINER dongs365 Tue Sep 22 12:30:02 CST 2020
