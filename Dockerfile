@@ -1,2 +1,2 @@
 FROM k8s.gcr.io/pause:3.2
-MAINTAINER dongs365 Sat Oct 10 00:35:02 CST 2020
+MAINTAINER dongs365 Sat Oct 10 00:40:01 CST 2020
