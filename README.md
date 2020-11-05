@@ -12,3 +12,4 @@ git add .
 git commit -m ":whale: `date`"
 git push
 ```
+*/5 * * * * /bin/bash au.sh >/dev/null 2>&1
