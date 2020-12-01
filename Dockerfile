@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-apiserver:v1.19.4
-MAINTAINER dongs365 Tue Dec  1 22:55:01 CST 2020
+FROM k8s.gcr.io/kube-proxy:v1.19.4
+MAINTAINER dongs365 Tue Dec  1 23:00:01 CST 2020
