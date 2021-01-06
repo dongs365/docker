@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-controller-manager:v1.19.6
-MAINTAINER dongs365 Wed Jan  6 23:55:02 CST 2021
+FROM k8s.gcr.io/kube-proxy:v1.19.6
+MAINTAINER dongs365 Thu Jan  7 00:00:03 CST 2021
