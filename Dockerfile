@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-scheduler:v1.19.7
-MAINTAINER dongs365 Thu Jan 28 22:35:03 UTC 2021
+FROM k8s.gcr.io/coredns:1.7.0
+MAINTAINER dongs365 Thu Jan 28 22:40:03 UTC 2021
