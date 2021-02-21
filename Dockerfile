@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-scheduler:v1.19.8
-MAINTAINER dongs365 Sun Feb 21 05:45:02 UTC 2021
+FROM k8s.gcr.io/pause:3.2
+MAINTAINER dongs365 Sun Feb 21 05:50:04 UTC 2021
