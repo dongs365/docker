@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-apiserver:v1.19.9
-MAINTAINER dongs365 Wed Mar 31 03:40:02 UTC 2021
+FROM k8s.gcr.io/pause:3.2
+MAINTAINER dongs365 Wed Mar 31 03:45:02 UTC 2021
