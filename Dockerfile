@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/etcd:3.4.13-0
-MAINTAINER dongs365 Wed Jun 16 14:55:02 UTC 2021
+FROM k8s.gcr.io/kube-controller-manager:v1.21.1
+MAINTAINER dongs365 Wed Jun 16 15:00:02 UTC 2021
