@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/coredns/coredns:v1.8.0
-MAINTAINER dongs365 Tue Jun 29 11:35:01 UTC 2021
+FROM k8s.gcr.io/pause:3.4.1
+MAINTAINER dongs365 Tue Jun 29 11:40:01 UTC 2021
