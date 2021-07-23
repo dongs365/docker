@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/coredns/coredns:v1.8.0
-MAINTAINER dongs365 Fri Jul 23 12:55:01 UTC 2021
+FROM k8s.gcr.io/kube-apiserver:v1.21.3
+MAINTAINER dongs365 Fri Jul 23 13:00:03 UTC 2021
