@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/etcd:3.5.0-0
-MAINTAINER dongs365 Thu Oct 21 23:30:02 UTC 2021
+FROM k8s.gcr.io/kube-apiserver:v1.22.2
+MAINTAINER dongs365 Thu Oct 21 23:35:01 UTC 2021
