@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-apiserver:v1.22.3
-MAINTAINER dongs365 Sun Oct 31 16:10:02 UTC 2021
+FROM k8s.gcr.io/kube-controller-manager:v1.22.3
+MAINTAINER dongs365 Sun Oct 31 16:15:02 UTC 2021
