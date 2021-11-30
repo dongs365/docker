@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/etcd:3.5.0-0
-MAINTAINER dongs365 Tue Nov 30 09:35:01 CST 2021
+FROM k8s.gcr.io/pause:3.5
+MAINTAINER dongs365 Tue Nov 30 09:40:02 CST 2021
