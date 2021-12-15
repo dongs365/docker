@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-controller-manager:v1.23.0
-MAINTAINER dongs365 Thu Dec 16 07:50:02 CST 2021
+FROM k8s.gcr.io/pause:3.6
+MAINTAINER dongs365 Thu Dec 16 07:55:01 CST 2021
