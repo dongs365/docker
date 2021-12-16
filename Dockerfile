@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-apiserver:v1.23.1
-MAINTAINER dongs365 Fri Dec 17 00:55:01 CST 2021
+FROM k8s.gcr.io/kube-scheduler:v1.23.1
+MAINTAINER dongs365 Fri Dec 17 01:00:01 CST 2021
