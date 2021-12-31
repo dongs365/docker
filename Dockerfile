@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/etcd:3.5.1-0
-MAINTAINER dongs365 Fri Dec 31 23:25:01 CST 2021
+FROM k8s.gcr.io/kube-scheduler:v1.23.1
+MAINTAINER dongs365 Fri Dec 31 23:30:02 CST 2021
