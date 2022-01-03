@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-proxy:v1.23.1
-MAINTAINER dongs365 Mon Jan  3 22:30:01 CST 2022
+FROM k8s.gcr.io/pause:3.6
+MAINTAINER dongs365 Mon Jan  3 22:35:01 CST 2022
