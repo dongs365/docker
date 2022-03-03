@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/pause:3.6
-MAINTAINER dongs365 Thu Mar  3 19:55:01 CST 2022
+FROM k8s.gcr.io/kube-apiserver:v1.23.4
+MAINTAINER dongs365 Thu Mar  3 20:00:02 CST 2022
