@@ -1,2 +1,2 @@
 FROM k8s.gcr.io/kube-controller-manager:v1.23.5
-MAINTAINER dongs365 Fri Mar 18 10:55:01 CST 2022
+MAINTAINER dongs365 Fri Mar 18 11:00:01 CST 2022
