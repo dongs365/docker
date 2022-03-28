@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-apiserver:v1.23.5
-MAINTAINER dongs365 Mon Mar 28 11:35:01 CST 2022
+FROM k8s.gcr.io/kube-proxy:v1.23.5
+MAINTAINER dongs365 Mon Mar 28 11:40:02 CST 2022
