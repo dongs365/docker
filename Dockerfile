@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-scheduler:v1.23.5
-MAINTAINER dongs365 Fri Apr 15 23:55:02 CST 2022
+FROM k8s.gcr.io/kube-apiserver:v1.23.5
+MAINTAINER dongs365 Sat Apr 16 00:00:02 CST 2022
