@@ -1,2 +1,2 @@
 FROM k8s.gcr.io/coredns/coredns:v1.8.6
-MAINTAINER dongs365 Tue May 10 17:20:03 CST 2022
+MAINTAINER dongs365 Tue May 10 17:25:02 CST 2022
