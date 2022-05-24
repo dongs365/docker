@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/coredns/coredns:v1.8.6
-MAINTAINER dongs365 Tue May 24 20:25:02 CST 2022
+FROM k8s.gcr.io/kube-controller-manager:v1.23.6
+MAINTAINER dongs365 Tue May 24 20:30:03 CST 2022
