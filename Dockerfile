@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/coredns/coredns:v1.8.6
-MAINTAINER dongs365 Thu May 26 15:05:02 CST 2022
+FROM k8s.gcr.io/kube-proxy:v1.23.7
+MAINTAINER dongs365 Thu May 26 15:10:03 CST 2022
