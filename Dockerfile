@@ -1,2 +1,2 @@
-FROM registry.k8s.io/kube-apiserver:v1.25.0
-MAINTAINER dongs365 Sun Aug 28 12:55:02 CST 2022
+FROM registry.k8s.io/pause:3.8
+MAINTAINER dongs365 Sun Aug 28 13:00:01 CST 2022
