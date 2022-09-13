@@ -1,2 +1,2 @@
-FROM registry.k8s.io/kube-apiserver:v1.25.0
-MAINTAINER dongs365 Tue Sep 13 07:55:02 CST 2022
+FROM registry.k8s.io/etcd:3.5.4-0
+MAINTAINER dongs365 Tue Sep 13 08:00:02 CST 2022
