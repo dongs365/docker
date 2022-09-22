@@ -1,2 +1,2 @@
-FROM registry.k8s.io/kube-apiserver:v1.25.2
-MAINTAINER dongs365 Fri Sep 23 07:05:02 CST 2022
+FROM registry.k8s.io/kube-controller-manager:v1.25.2
+MAINTAINER dongs365 Fri Sep 23 07:10:01 CST 2022
