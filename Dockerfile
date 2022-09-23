@@ -1,2 +1,2 @@
-FROM registry.k8s.io/kube-controller-manager:v1.25.2
-MAINTAINER dongs365 Fri Sep 23 23:50:01 CST 2022
+FROM registry.k8s.io/coredns/coredns:v1.9.3
+MAINTAINER dongs365 Fri Sep 23 23:55:01 CST 2022
