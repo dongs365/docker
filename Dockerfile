@@ -1,2 +1,2 @@
 FROM registry.k8s.io/pause:3.8
-MAINTAINER dongs365 Fri Oct 21 19:30:02 CST 2022
+MAINTAINER dongs365 Fri Oct 21 19:35:02 CST 2022
