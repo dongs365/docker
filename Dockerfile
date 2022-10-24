@@ -1,2 +1,2 @@
-FROM registry.k8s.io/kube-proxy:v1.25.3
-MAINTAINER dongs365 Mon Oct 24 12:30:02 CST 2022
+FROM registry.k8s.io/kube-apiserver:v1.25.3
+MAINTAINER dongs365 Mon Oct 24 12:35:02 CST 2022
