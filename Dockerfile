@@ -1,2 +1,2 @@
 FROM registry.k8s.io/kube-scheduler:v1.25.3
-MAINTAINER dongs365 Sat Oct 29 23:45:01 CST 2022
+MAINTAINER dongs365 Sat Oct 29 23:50:01 CST 2022
