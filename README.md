@@ -1,4 +1,4 @@
-#This is docker test
+#This is a docker test shell command
 *** 
 ```
 #!/bin/bash
