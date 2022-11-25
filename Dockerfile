@@ -1,2 +1,2 @@
 FROM registry.k8s.io/kube-apiserver:v1.25.4
-MAINTAINER dongs365 Fri Nov 25 14:55:02 CST 2022
+MAINTAINER dongs365 Fri Nov 25 15:00:01 CST 2022
