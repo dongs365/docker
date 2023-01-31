@@ -1,2 +1,2 @@
-FROM registry.k8s.io/kube-proxy:v1.25.6
-MAINTAINER dongs365 Tue Jan 31 11:25:02 CST 2023
+FROM registry.k8s.io/kube-scheduler:v1.25.6
+MAINTAINER dongs365 Tue Jan 31 11:30:02 CST 2023
