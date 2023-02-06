@@ -1,2 +1,2 @@
-FROM registry.k8s.io/pause:3.8
-MAINTAINER dongs365 Mon Feb  6 21:35:02 CST 2023
+FROM registry.k8s.io/etcd:3.5.4-0
+MAINTAINER dongs365 Mon Feb  6 21:40:02 CST 2023
