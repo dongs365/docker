@@ -1,2 +1,2 @@
-FROM registry.k8s.io/kube-controller-manager:v1.25.6
-MAINTAINER dongs365 Mon Feb 13 07:40:01 CST 2023
+FROM registry.k8s.io/kube-proxy:v1.25.6
+MAINTAINER dongs365 Mon Feb 13 07:45:01 CST 2023
