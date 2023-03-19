@@ -1,2 +1,2 @@
-FROM registry.k8s.io/kube-proxy:v1.26.3
-MAINTAINER dongs365 Sun Mar 19 10:20:01 CST 2023
+FROM registry.k8s.io/coredns/coredns:v1.9.3
+MAINTAINER dongs365 Sun Mar 19 10:25:02 CST 2023
