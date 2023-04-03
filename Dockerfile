@@ -1,2 +1,2 @@
-FROM registry.k8s.io/kube-apiserver:v1.26.3
-MAINTAINER dongs365 Mon Apr  3 12:30:02 CST 2023
+FROM registry.k8s.io/coredns/coredns:v1.9.3
+MAINTAINER dongs365 Mon Apr  3 12:35:02 CST 2023
