@@ -1,2 +1,2 @@
-FROM registry.k8s.io/kube-apiserver:v1.26.5
-MAINTAINER dongs365 Sun Jun 11 04:55:03 CST 2023
+FROM registry.k8s.io/kube-scheduler:v1.26.5
+MAINTAINER dongs365 Sun Jun 11 05:00:01 CST 2023
