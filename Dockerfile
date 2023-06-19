@@ -1,2 +1,2 @@
-FROM registry.k8s.io/etcd:3.5.6-0
-MAINTAINER dongs365 Tue Jun 20 03:25:01 CST 2023
+FROM registry.k8s.io/kube-proxy:v1.26.6
+MAINTAINER dongs365 Tue Jun 20 03:30:02 CST 2023
