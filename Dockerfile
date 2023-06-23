@@ -1,2 +1,2 @@
-FROM registry.k8s.io/kube-scheduler:v1.26.6
-MAINTAINER dongs365 Fri Jun 23 17:55:02 CST 2023
+FROM registry.k8s.io/pause:3.9
+MAINTAINER dongs365 Fri Jun 23 18:00:02 CST 2023
