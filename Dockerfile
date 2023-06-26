@@ -1,2 +1,2 @@
-FROM registry.k8s.io/kube-scheduler:v1.26.6
-MAINTAINER dongs365 Mon Jun 26 23:25:02 CST 2023
+FROM registry.k8s.io/coredns/coredns:v1.9.3
+MAINTAINER dongs365 Mon Jun 26 23:30:02 CST 2023
