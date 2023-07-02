@@ -1,2 +1,2 @@
 FROM registry.k8s.io/coredns/coredns:v1.9.3
-MAINTAINER dongs365 Sun Jul  2 23:55:02 CST 2023
+MAINTAINER dongs365 Mon Jul  3 00:00:02 CST 2023
