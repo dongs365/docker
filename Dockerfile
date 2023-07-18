@@ -1,2 +1,2 @@
 FROM registry.k8s.io/etcd:3.5.6-0
-MAINTAINER dongs365 Wed Jul 19 03:30:03 CST 2023
+MAINTAINER dongs365 Wed Jul 19 03:35:02 CST 2023
